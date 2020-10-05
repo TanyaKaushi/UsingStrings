@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821232682624",
+    "firebase_url": "https://madpro-ffcd0.firebaseio.com",
+    "project_id": "madpro-ffcd0",
+    "storage_bucket": "madpro-ffcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821232682624:android:ef14aebc8f14f3f1404865",
+        "android_client_info": {
+          "package_name": "com.example.madpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821232682624-g7hecl9qsf10roms44o33rjeb5qh0dtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madpro",
+            "certificate_hash": "f43ea6ec78089887c106464357d5543c2e7fd744"
+          }
+        },
+        {
+          "client_id": "821232682624-v49mb479p5nf3pd4ib4fu3rug1qbirsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIv-PTe61QflVPXorL2VIkXmfFLCOKM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821232682624-v49mb479p5nf3pd4ib4fu3rug1qbirsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

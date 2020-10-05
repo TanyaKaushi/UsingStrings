@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "649451879139",
+    "firebase_url": "https://payt-e6f02.firebaseio.com",
+    "project_id": "payt-e6f02",
+    "storage_bucket": "payt-e6f02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649451879139:android:df18c117827446b70aa3d6",
+        "android_client_info": {
+          "package_name": "com.example.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649451879139-isv38261k7qam1v6mi5clo2leu2m7r0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7vJ1tSCLRYDqJQ-dN91YwUCASXaFzDfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649451879139-isv38261k7qam1v6mi5clo2leu2m7r0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
